@@ -1,5 +1,6 @@
 # fuzzy-parakeet
 
+```text
 GitHub
 │
 ├── platform-repo
@@ -28,3 +29,4 @@ GitHub
 | test namespace       |
 | prod namespace       |
 +----------------------+
+```
